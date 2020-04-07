@@ -5,6 +5,8 @@ This is a boilerplate for Graphql, Express and OrientDB projects.
 
 After cloning
 
+### Scripts to run
+
 npm install
 
 npm install --global --production windows-build-tools
